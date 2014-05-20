@@ -7,7 +7,7 @@ public class TestTimehh {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("中国外岁"+getTimeInfo());
+		System.out.println("中国外岁，哈哈哈"+getTimeInfo());
 	}
 	public static String getTimeInfo(){
 		SimpleDateFormat formatter = new SimpleDateFormat(
